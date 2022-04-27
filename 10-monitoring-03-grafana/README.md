@@ -73,7 +73,7 @@ CPULA 1/5/15
 
 В решении задания - приведите листинг этого файла.  
 
-![dash.json](./dash.json)  
+![dash.json](dash.json)  
 ```json
 {
   "annotations": {
